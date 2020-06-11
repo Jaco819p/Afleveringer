@@ -1,0 +1,500 @@
+director_name,actor_1_name,N/A,movie_title
+James Cameron,CCH Pounder,2009,Avatar 
+Gore Verbinski,Johnny Depp,2007,Pirates of the Caribbean: At World's End 
+Sam Mendes,Christoph Waltz,2015,Spectre 
+Christopher Nolan,Tom Hardy,2012,The Dark Knight Rises 
+Doug Walker,Doug Walker,N/A,Star Wars: Episode VII - The Force Awakens             
+Andrew Stanton,Daryl Sabara,2012,John Carter 
+Sam Raimi,J.K. Simmons,2007,Spider-Man 3 
+Nathan Greno,Brad Garrett,2010,Tangled 
+Joss Whedon,Chris Hemsworth,2015,Avengers: Age of Ultron 
+David Yates,Alan Rickman,2009,Harry Potter and the Half-Blood Prince 
+Zack Snyder,Henry Cavill,2016,Batman v Superman: Dawn of Justice 
+Bryan Singer,Kevin Spacey,2006,Superman Returns 
+Marc Forster,Giancarlo Giannini,2008,Quantum of Solace 
+Gore Verbinski,Johnny Depp,2006,Pirates of the Caribbean: Dead Man's Chest 
+Gore Verbinski,Johnny Depp,2013,The Lone Ranger 
+Zack Snyder,Henry Cavill,2013,Man of Steel 
+Andrew Adamson,Peter Dinklage,2008,The Chronicles of Narnia: Prince Caspian 
+Joss Whedon,Chris Hemsworth,2012,The Avengers 
+Rob Marshall,Johnny Depp,2011,Pirates of the Caribbean: On Stranger Tides 
+Barry Sonnenfeld,Will Smith,2012,Men in Black 3 
+Peter Jackson,Aidan Turner,2014,The Hobbit: The Battle of the Five Armies 
+Marc Webb,Emma Stone,2012,The Amazing Spider-Man 
+Ridley Scott,Mark Addy,2010,Robin Hood 
+Peter Jackson,Aidan Turner,2013,The Hobbit: The Desolation of Smaug 
+Chris Weitz,Christopher Lee,2007,The Golden Compass 
+Peter Jackson,Naomi Watts,2005,King Kong 
+James Cameron,Leonardo DiCaprio,1997,Titanic 
+Anthony Russo,Robert Downey Jr.,2016,Captain America: Civil War 
+Peter Berg,Liam Neeson,2012,Battleship 
+Colin Trevorrow,Bryce Dallas Howard,2015,Jurassic World 
+Sam Mendes,Albert Finney,2012,Skyfall 
+Sam Raimi,J.K. Simmons,2004,Spider-Man 2 
+Shane Black,Robert Downey Jr.,2013,Iron Man 3 
+Tim Burton,Johnny Depp,2010,Alice in Wonderland 
+Brett Ratner,Hugh Jackman,2006,X-Men: The Last Stand 
+Dan Scanlon,Steve Buscemi,2013,Monsters University 
+Michael Bay,Glenn Morshower,2009,Transformers: Revenge of the Fallen 
+Michael Bay,Bingbing Li,2014,Transformers: Age of Extinction 
+Sam Raimi,Tim Holmes,2013,Oz the Great and Powerful 
+Marc Webb,Emma Stone,2014,The Amazing Spider-Man 2 
+Joseph Kosinski,Jeff Bridges,2010,TRON: Legacy 
+John Lasseter,Joe Mantegna,2011,Cars 2 
+Martin Campbell,Ryan Reynolds,2011,Green Lantern 
+Lee Unkrich,Tom Hanks,2010,Toy Story 3 
+McG,Christian Bale,2009,Terminator Salvation 
+James Wan,Jason Statham,2015,Furious 7 
+Marc Forster,Peter Capaldi,2013,World War Z 
+Bryan Singer,Jennifer Lawrence,2014,X-Men: Days of Future Past 
+J.J. Abrams,Benedict Cumberbatch,2013,Star Trek Into Darkness 
+Bryan Singer,Eddie Marsan,2013,Jack the Giant Slayer 
+Baz Luhrmann,Leonardo DiCaprio,2013,The Great Gatsby 
+Mike Newell,Jake Gyllenhaal,2010,Prince of Persia: The Sands of Time 
+Guillermo del Toro,Charlie Hunnam,2013,Pacific Rim 
+Michael Bay,Glenn Morshower,2011,Transformers: Dark of the Moon 
+Steven Spielberg,Harrison Ford,2008,Indiana Jones and the Kingdom of the Crystal Skull 
+Peter Sohn,A.J. Buckley,2015,The Good Dinosaur 
+Mark Andrews,Kelly Macdonald,2012,Brave 
+Justin Lin,Sofia Boutella,2016,Star Trek Beyond 
+Andrew Stanton,John Ratzenberger,2008,WALL·E 
+Brett Ratner,Tzi Ma,2007,Rush Hour 3 
+Roland Emmerich,Oliver Platt,2009,2012 
+Robert Zemeckis,Robin Wright,2009,A Christmas Carol 
+Lana Wachowski,Channing Tatum,2015,Jupiter Ascending 
+David Yates,Christoph Waltz,2016,The Legend of Tarzan 
+Andrew Adamson,Jim Broadbent,N/A,The Chronicles of Narnia: The Lion
+Bryan Singer,Jennifer Lawrence,2016,X-Men: Apocalypse 
+Christopher Nolan,Christian Bale,2008,The Dark Knight 
+Pete Docter,John Ratzenberger,2009,Up 
+Rob Letterman,Amy Poehler,2009,Monsters vs. Aliens 
+Jon Favreau,Robert Downey Jr.,2008,Iron Man 
+Martin Scorsese,Chloë Grace Moretz,2011,Hugo 
+Barry Sonnenfeld,Will Smith,1999,Wild Wild West 
+Rob Cohen,Jet Li,2008,The Mummy: Tomb of the Dragon Emperor 
+David Ayer,Will Smith,2016,Suicide Squad 
+Tom Shadyac,Jimmy Bennett,2007,Evan Almighty 
+Doug Liman,Tom Cruise,2014,Edge of Tomorrow 
+Kevin Reynolds,Jeanne Tripplehorn,1995,Waterworld 
+Stephen Sommers,Joseph Gordon-Levitt,2009,G.I. Joe: The Rise of Cobra 
+Pete Docter,Amy Poehler,2015,Inside Out 
+Jon Favreau,Scarlett Johansson,2016,The Jungle Book 
+Jon Favreau,Robert Downey Jr.,2010,Iron Man 2 
+Rupert Sanders,Chris Hemsworth,2012,Snow White and the Huntsman 
+Robert Stromberg,Angelina Jolie Pitt,2014,Maleficent 
+Matt Reeves,Gary Oldman,2014,Dawn of the Planet of the Apes 
+Roland Joffé,Tamsin Egerton,2015,The Lovers 
+Carl Rinsch,Keanu Reeves,2013,47 Ronin 
+Anthony Russo,Scarlett Johansson,2014,Captain America: The Winter Soldier 
+Mike Mitchell,Jon Hamm,2010,Shrek Forever After 
+Brad Bird,Judy Greer,2015,Tomorrowland 
+Don Hall,Damon Wayans Jr.,2014,Big Hero 6 
+Rich Moore,Jack McBrayer,2012,Wreck-It Ralph 
+Robert Zemeckis,Tom Hanks,2004,The Polar Express 
+Roland Emmerich,Vivica A. Fox,2016,Independence Day: Resurgence 
+Dean DeBlois,Gerard Butler,2010,How to Train Your Dragon 
+Jonathan Mostow,Nick Stahl,2003,Terminator 3: Rise of the Machines 
+James Gunn,Bradley Cooper,2014,Guardians of the Galaxy 
+Christopher Nolan,Matthew McConaughey,2014,Interstellar 
+Christopher Nolan,Leonardo DiCaprio,2010,Inception 
+Hideaki Anno,Mark Chinnery,2016,Godzilla Resurgence 
+Peter Jackson,Aidan Turner,2012,The Hobbit: An Unexpected Journey 
+Rob Cohen,Paul Walker,2001,The Fast and the Furious 
+David Fincher,Brad Pitt,2008,The Curious Case of Benjamin Button 
+Matthew Vaughn,Jennifer Lawrence,2011,X-Men: First Class 
+Francis Lawrence,Jennifer Lawrence,2015,The Hunger Games: Mockingjay - Part 2 
+Jon Turteltaub,Nicolas Cage,2010,The Sorcerer's Apprentice 
+Wolfgang Petersen,Jimmy Bennett,2006,Poseidon 
+James Bobin,Johnny Depp,2016,Alice Through the Looking Glass 
+Chris Miller,Justin Timberlake,2007,Shrek the Third 
+Duncan Jones,Dominic Cooper,2016,Warcraft 
+Alan Taylor,J.K. Simmons,2015,Terminator Genisys 
+Michael Apted,Bruce Spence,2010,The Chronicles of Narnia: The Voyage of the Dawn Treader 
+Michael Bay,Jennifer Garner,2001,Pearl Harbor 
+Michael Bay,Zack Ward,2007,Transformers 
+Oliver Stone,Anthony Hopkins,2004,Alexander 
+David Yates,Robert Pattinson,2007,Harry Potter and the Order of the Phoenix 
+Mike Newell,Robert Pattinson,2005,Harry Potter and the Goblet of Fire 
+Peter Berg,Will Smith,2008,Hancock 
+Francis Lawrence,Will Smith,2007,I Am Legend 
+Tim Burton,Johnny Depp,2005,Charlie and the Chocolate Factory 
+Brad Bird,Janeane Garofalo,2007,Ratatouille 
+Christopher Nolan,Christian Bale,2005,Batman Begins 
+Eric Darnell,Bernie Mac,2008,Madagascar: Escape 2 Africa 
+Shawn Levy,Robin Williams,2009,Night at the Museum: Battle of the Smithsonian 
+Gavin Hood,Hugh Jackman,2009,X-Men Origins: Wolverine 
+Lana Wachowski,Essie Davis,2003,The Matrix Revolutions 
+Chris Buck,Josh Gad,2013,Frozen 
+Lana Wachowski,Steve Bastoni,2003,The Matrix Reloaded 
+Alan Taylor,Chris Hemsworth,2013,Thor: The Dark World 
+George Miller,Tom Hardy,2015,Mad Max: Fury Road 
+Ron Howard,Tom Hanks,2009,Angels & Demons 
+Kenneth Branagh,Chris Hemsworth,2011,Thor 
+Byron Howard,Chloë Grace Moretz,2008,Bolt 
+Hoyt Yeatman,Kelli Garner,2009,G-Force 
+Jonathan Liebesman,Liam Neeson,2012,Wrath of the Titans 
+Tim Burton,Johnny Depp,2012,Dark Shadows 
+Christopher McQuarrie,Tom Cruise,2015,Mission: Impossible - Rogue Nation 
+Joe Johnston,Anthony Hopkins,2010,The Wolfman 
+David Yates,Christoph Waltz,2016,The Legend of Tarzan 
+Steve Hickner,Matthew Broderick,2007,Bee Movie 
+Jennifer Yuh Nelson,Angelina Jolie Pitt,2011,Kung Fu Panda 2 
+M. Night Shyamalan,Seychelle Gabriel,2010,The Last Airbender 
+J.J. Abrams,Philip Seymour Hoffman,2006,Mission: Impossible III 
+Roland Emmerich,Channing Tatum,2013,White House Down 
+Simon Wells,Elisabeth Harnois,2011,Mars Needs Moms 
+David Bowers,Hugh Jackman,2006,Flushed Away 
+Joe Wright,Hugh Jackman,2015,Pan 
+Rob Minkoff,Ty Burrell,2014,Mr. Peabody & Sherman 
+Wolfgang Petersen,Brad Pitt,2004,Troy 
+Eric Darnell,Jada Pinkett Smith,2012,Madagascar 3: Europe's Most Wanted 
+Lee Tamahori,Toby Stephens,2002,Die Another Day 
+Paul Feig,Ed Begley Jr.,2016,Ghostbusters 
+Michael Bay,Bruce Willis,1998,Armageddon 
+Barry Sonnenfeld,Will Smith,2002,Men in Black II 
+Robert Zemeckis,Robin Wright,2007,Beowulf 
+Alessandro Carloni,J.K. Simmons,2016,Kung Fu Panda 3 
+Brad Bird,Tom Cruise,2011,Mission: Impossible - Ghost Protocol 
+Peter Ramsey,Hugh Jackman,2012,Rise of the Guardians 
+Dean Parisot,John Michael Higgins,2005,Fun with Dick and Jane 
+Edward Zwick,Tom Cruise,2003,The Last Samurai 
+Ridley Scott,Christian Bale,2014,Exodus: Gods and Kings 
+J.J. Abrams,Chris Hemsworth,2009,Star Trek 
+Sam Raimi,J.K. Simmons,2002,Spider-Man 
+Dean DeBlois,Gerard Butler,2014,How to Train Your Dragon 2 
+Alex Proyas,Gerard Butler,2016,Gods of Egypt 
+Rob Cohen,Sam Shepard,2005,Stealth 
+Zack Snyder,Matt Frewer,2009,Watchmen 
+Richard Donner,Jet Li,1998,Lethal Weapon 4 
+Ang Lee,Kevin Rankin,2003,Hulk 
+Jon M. Chu,Channing Tatum,2013,G.I. Joe: Retaliation 
+Breck Eisner,Matthew McConaughey,2005,Sahara 
+Hironobu Sakaguchi,Steve Buscemi,2001,Final Fantasy: The Spirits Within 
+Joe Johnston,Chris Evans,2011,Captain America: The First Avenger 
+Michael Apted,Colin Salmon,1999,The World Is Not Enough 
+Peter Weir,James D'Arcy,2003,Master and Commander: The Far Side of the World 
+Bill Condon,Robert Pattinson,2012,The Twilight Saga: Breaking Dawn - Part 2 
+George Miller,Robin Williams,2011,Happy Feet 2 
+Louis Leterrier,Ty Burrell,2008,The Incredible Hulk 
+N/A,Don Johnson,N/A,Miami Vice             
+Steven Spielberg,Mark Rylance,2016,The BFG 
+Alejandro G. Iñárritu,Leonardo DiCaprio,2015,The Revenant 
+David Soren,Ryan Reynolds,2013,Turbo 
+Gore Verbinski,Johnny Depp,2011,Rango 
+Eric Darnell,Benedict Cumberbatch,2014,Penguins of Madagascar 
+Paul Greengrass,Matt Damon,2007,The Bourne Ultimatum 
+Mark Osborne,Angelina Jolie Pitt,2008,Kung Fu Panda 
+Peyton Reed,Judy Greer,2015,Ant-Man 
+Francis Lawrence,Jennifer Lawrence,2013,The Hunger Games: Catching Fire 
+Bill Condon,Robert Pattinson,2012,The Twilight Saga: Breaking Dawn - Part 2 
+Tim Johnson,Jim Parsons,2015,Home 
+Steven Spielberg,Tom Cruise,2005,War of the Worlds 
+Michael Bay,Will Smith,2003,Bad Boys II 
+Chris Miller,Salma Hayek,2011,Puss in Boots 
+Phillip Noyce,Angelina Jolie Pitt,2010,Salt 
+Darren Aronofsky,Anthony Hopkins,2014,Noah 
+Steven Spielberg,Toby Jones,2011,The Adventures of Tintin 
+Alfonso Cuarón,Daniel Radcliffe,2004,Harry Potter and the Prisoner of Azkaban 
+Baz Luhrmann,Essie Davis,2008,Australia 
+M. Night Shyamalan,Will Smith,2013,After Earth 
+Eric Leighton,Alfre Woodard,2000,Dinosaur 
+Matt Birch,Rupert Grint,2011,Harry Potter and the Deathly Hallows: Part II 
+Shawn Levy,Robin Williams,2014,Night at the Museum: Secret of the Tomb 
+Tom McGrath,J.K. Simmons,2010,Megamind 
+Chris Columbus,Daniel Radcliffe,2001,Harry Potter and the Sorcerer's Stone 
+Robert Schwentke,Ryan Reynolds,2013,R.I.P.D. 
+Hideaki Anno,Mark Chinnery,2016,Godzilla Resurgence 
+Gore Verbinski,Johnny Depp,2003,Pirates of the Caribbean: The Curse of the Black Pearl 
+Matt Birch,Rupert Grint,2010,Harry Potter and the Deathly Hallows: Part I 
+Francis Lawrence,Jennifer Lawrence,2014,The Hunger Games: Mockingjay - Part 1 
+Ron Howard,Tom Hanks,2006,The Da Vinci Code 
+Carlos Saldanha,Miguel Ferrer,2014,Rio 2 
+Bryan Singer,Hugh Jackman,2003,X-Men 2 
+Justin Lin,Paul Walker,2011,Fast Five 
+Guy Ritchie,Robert Downey Jr.,2011,Sherlock Holmes: A Game of Shadows 
+Louis Leterrier,Liam Neeson,2010,Clash of the Titans 
+Paul Verhoeven,Ronny Cox,1990,Total Recall 
+John McTiernan,Tony Curran,1999,The 13th Warrior 
+Tony Gilroy,Jeremy Renner,2012,The Bourne Legacy 
+Joel Schumacher,Michael Gough,1997,Batman & Robin 
+Ron Howard,Clint Howard,2000,How the Grinch Stole Christmas 
+Roland Emmerich,Jake Gyllenhaal,2004,The Day After Tomorrow 
+John Woo,Tom Cruise,2000,Mission: Impossible II 
+Wolfgang Petersen,Karen Allen,2000,The Perfect Storm 
+Tim Story,Chris Evans,2007,Fantastic 4: Rise of the Silver Surfer 
+Ang Lee,Suraj Sharma,2012,Life of Pi 
+Mark Steven Johnson,Nicolas Cage,2007,Ghost Rider 
+Paul Greengrass,Matt Damon,2016,Jason Bourne 
+McG,Demi Moore,2003,Charlie's Angels: Full Throttle 
+Ridley Scott,Michael Fassbender,2012,Prometheus 
+Rob Minkoff,Nathan Lane,2002,Stuart Little 2 
+Neill Blomkamp,Matt Damon,2013,Elysium 
+David Twohy,Vin Diesel,2004,The Chronicles of Riddick 
+José Padilha,Gary Oldman,2014,RoboCop 
+Lana Wachowski,Scott Porter,2008,Speed Racer 
+James L. Brooks,Shelley Conn,2010,How Do You Know 
+James Mangold,Tom Cruise,2010,Knight and Day 
+Joseph Kosinski,Morgan Freeman,2013,Oblivion 
+George Lucas,Natalie Portman,2005,Star Wars: Episode III - Revenge of the Sith 
+George Lucas,Natalie Portman,2002,Star Wars: Episode II - Attack of the Clones 
+Pete Docter,Steve Buscemi,N/A,Monsters
+James Mangold,Hugh Jackman,2013,The Wolverine 
+George Lucas,Natalie Portman,1999,Star Wars: Episode I - The Phantom Menace 
+Kirk De Micco,Ryan Reynolds,2013,The Croods 
+Frédéric Forestier,Alain Delon,2008,Asterix at the Olympic Games 
+John Woo,Nicolas Cage,2002,Windtalkers 
+Cedric Nicolas-Troyan,Chris Hemsworth,2016,The Huntsman: Winter's War 
+Jonathan Liebesman,Noel Fisher,2014,Teenage Mutant Ninja Turtles 
+Alfonso Cuarón,Phaldut Sharma,2013,Gravity 
+Roger Donaldson,Jamie Renée Smith,1997,Dante's Peak 
+Dave Green,Stephen Amell,2016,Teenage Mutant Ninja Turtles: Out of the Shadows 
+Josh Trank,Tim Blake Nelson,2015,Fantastic Four 
+Shawn Levy,Robin Williams,2006,Night at the Museum 
+Brad Peyton,Dwayne Johnson,2015,San Andreas 
+Roger Spottiswoode,Vincent Schiavelli,1997,Tomorrow Never Dies 
+Roland Emmerich,Heath Ledger,2000,The Patriot 
+Steven Soderbergh,Brad Pitt,2004,Ocean's Twelve 
+Doug Liman,Brad Pitt,2005,Mr. & Mrs. Smith 
+Robert Schwentke,Kate Winslet,2015,Insurgent 
+Martin Scorsese,Leonardo DiCaprio,2004,The Aviator 
+Rob Letterman,James Corden,2010,Gulliver's Travels 
+Michel Gondry,Christoph Waltz,2011,The Green Hornet 
+N/A,George Peppard,N/A,The A-Team             
+Noam Murro,Eva Green,2014,300: Rise of an Empire 
+Raja Gosnell,Mahadeo Shivraj,2011,The Smurfs 
+Will Finn,Steve Buscemi,2004,Home on the Range 
+Robert Schwentke,Naomi Watts,2016,Allegiant 
+Shawn Levy,Hugh Jackman,2011,Real Steel 
+Raja Gosnell,Jacob Tremblay,2013,The Smurfs 2 
+Jan de Bont,Jason Patric,1997,Speed 2: Cruise Control 
+Gavin Hood,Harrison Ford,2013,Ender's Game 
+Len Wiseman,Bruce Willis,2007,Live Free or Die Hard 
+Peter Jackson,Christopher Lee,2001,The Lord of the Rings: The Fellowship of the Ring 
+Frank Coraci,Jim Broadbent,2004,Around the World in 80 Days 
+Michael Mann,Will Smith,2001,Ali 
+Bo Welch,Sean Hayes,2003,The Cat in the Hat 
+Alex Proyas,Will Smith,N/A,I
+Ridley Scott,Liam Neeson,2005,Kingdom of Heaven 
+Rob Minkoff,Chazz Palminteri,1999,Stuart Little 
+Ron Clements,Oprah Winfrey,2009,The Princess and the Frog 
+Ridley Scott,Matt Damon,2015,The Martian 
+Christopher Barnard,Mathew Buck,N/A,10
+Michael Bay,Scarlett Johansson,2005,The Island 
+Peter Chelsom,Del Zamora,2001,Town & Country 
+Dominic Sena,Nicolas Cage,2000,Gone in Sixty Seconds 
+Ridley Scott,Djimon Hounsou,2000,Gladiator 
+Steven Spielberg,Tom Cruise,2002,Minority Report 
+Chris Columbus,Daniel Radcliffe,2002,Harry Potter and the Chamber of Secrets 
+Martin Campbell,Eva Green,2006,Casino Royale 
+Tim Burton,Cary-Hiroyuki Tagawa,2001,Planet of the Apes 
+James Cameron,Joe Morton,1991,Terminator 2: Judgment Day 
+Michael Mann,Johnny Depp,2009,Public Enemies 
+Ridley Scott,Denzel Washington,2007,American Gangster 
+James Cameron,Jamie Lee Curtis,1994,True Lies 
+Tony Scott,Denzel Washington,2009,The Taking of Pelham 1 2 3 
+Paul Weitz,Robert De Niro,2010,Little Fockers 
+Adam McKay,Dwayne Johnson,2010,The Other Guys 
+Chuck Russell,Vanessa Williams,1996,Eraser 
+Quentin Tarantino,Leonardo DiCaprio,2012,Django Unchained 
+Gary Trousdale,Demi Moore,1996,The Hunchback of Notre Dame 
+Mark Dindal,Eartha Kitt,2000,The Emperor's New Groove 
+Simon West,Jason Statham,2012,The Expendables 2 
+Jon Turteltaub,Nicolas Cage,2004,National Treasure 
+Stefen Fangmeier,Djimon Hounsou,2006,Eragon 
+Spike Jonze,Catherine O'Hara,2009,Where the Wild Things Are 
+Joe Wright,Hugh Jackman,2015,Pan 
+Chris Wedge,Josh Hutcherson,2013,Epic 
+Florian Donnersmarck,Johnny Depp,2010,The Tourist 
+Peter Hyams,CCH Pounder,1999,End of Days 
+Edward Zwick,Leonardo DiCaprio,2006,Blood Diamond 
+Martin Scorsese,Leonardo DiCaprio,2013,The Wolf of Wall Street 
+Joel Schumacher,Michael Gough,1995,Batman Forever 
+Paul Verhoeven,Jake Busey,1997,Starship Troopers 
+Tom Tykwer,Tom Hanks,2012,Cloud Atlas 
+Zack Snyder,Abbie Cornish,2010,Legend of the Guardians: The Owls of Ga'Hoole 
+Pitof,Frances Conroy,2004,Catwoman 
+Brett Ratner,Dwayne Johnson,2014,Hercules 
+Ron Clements,Joseph Gordon-Levitt,2002,Treasure Planet 
+Brad Silberling,Will Ferrell,2009,Land of the Lost 
+Patrick Hughes,Jason Statham,2014,The Expendables 3 
+Ericson Core,Ray Winstone,2015,Point Break 
+Lawrence Guterman,Jamie Kennedy,2005,Son of the Mask 
+Ron Howard,Chris Hemsworth,2015,In the Heart of the Sea 
+Ron Underwood,Rosario Dawson,2002,The Adventures of Pluto Nash 
+Paul Greengrass,Matt Damon,2010,Green Zone 
+Steve Martino,Francesca Capaldi,2015,The Peanuts Movie 
+David Mamet,Ben Gazzara,1997,The Spanish Prisoner 
+Stephen Sommers,Dwayne Johnson,2001,The Mummy Returns 
+Martin Scorsese,Leonardo DiCaprio,2002,Gangs of New York 
+Yimou Zhang,Christian Bale,2011,The Flowers of War 
+Ash Brannon,Jeff Bridges,2007,Surf's Up 
+Frank Oz,Jon Lovitz,2004,The Stepford Wives 
+Ridley Scott,Ioan Gruffudd,2001,Black Hawk Down 
+Jay Roach,Will Ferrell,2012,The Campaign 
+Luc Besson,Milla Jovovich,1997,The Fifth Element 
+Michael Patrick King,Chris Noth,2010,Sex and the City 2 
+Bibo Bergeron,Frank Welker,2000,The Road to El Dorado 
+Steve Martino,Peter Dinklage,2012,Ice Age: Continental Drift 
+Kenneth Branagh,Hayley Atwell,2015,Cinderella 
+Peter Jackson,Michael Imperioli,2009,The Lovely Bones 
+Andrew Stanton,Alexander Gould,2003,Finding Nemo 
+Peter Jackson,Orlando Bloom,2003,The Lord of the Rings: The Return of the King 
+Peter Jackson,Christopher Lee,2002,The Lord of the Rings: The Two Towers 
+Sergey Bodrov,Jeff Bridges,2014,Seventh Son 
+Simon West,Angelina Jolie Pitt,2001,Lara Croft: Tomb Raider 
+Wally Pfister,Johnny Depp,2014,Transcendence 
+Joe Johnston,Michael Jeter,2001,Jurassic Park III 
+Rupert Wyatt,James Franco,2011,Rise of the Planet of the Apes 
+Mark Waters,Martin Short,2008,The Spiderwick Chronicles 
+John Moore,Bruce Willis,2013,A Good Day to Die Hard 
+John Lee Hancock,Dennis Quaid,2004,The Alamo 
+Brad Bird,Holly Hunter,2004,The Incredibles 
+Renny Harlin,Christopher Masterson,1995,Cutthroat Island 
+Chris Columbus,Logan Lerman,2010,Percy Jackson & the Olympians: The Lightning Thief 
+Barry Sonnenfeld,Will Smith,1997,Men in Black 
+John Lasseter,Tom Hanks,1999,Toy Story 2 
+Tony Scott,Denzel Washington,2010,Unstoppable 
+Brett Ratner,Mei Melançon,2001,Rush Hour 2 
+Robert Zemeckis,Harrison Ford,2000,What Lies Beneath 
+Phil Lord,Will Forte,2009,Cloudy with a Chance of Meatballs 
+Carlos Saldanha,Denis Leary,2009,Ice Age: Dawn of the Dinosaurs 
+Ben Stiller,Adam Scott,2013,The Secret Life of Walter Mitty 
+McG,Bill Murray,2000,Charlie's Angels 
+Martin Scorsese,Leonardo DiCaprio,2006,The Departed 
+Tony Bancroft,Ming-Na Wen,1998,Mulan 
+Ben Stiller,Robert Downey Jr.,2008,Tropic Thunder 
+David Fincher,Robin Wright,2011,The Girl with the Dragon Tattoo 
+John McTiernan,Bruce Willis,1995,Die Hard with a Vengeance 
+Guy Ritchie,Robert Downey Jr.,2009,Sherlock Holmes 
+Timur Bekmambetov,Morgan Freeman,2016,Ben-Hur 
+Gary Trousdale,Leonard Nimoy,2001,Atlantis: The Lost Empire 
+Walt Becker,Bella Thorne,2015,Alvin and the Chipmunks: The Road Chip 
+Bryan Singer,Tom Cruise,2008,Valkyrie 
+Dennis Dugan,Adam Sandler,2008,You Don't Mess with the Zohan 
+Chris Columbus,Peter Dinklage,2015,Pixels 
+Steven Spielberg,Haley Joel Osment,2001,A.I. Artificial Intelligence 
+Rob Minkoff,Marsha Thomason,2003,The Haunted Mansion 
+Robert Zemeckis,Matthew McConaughey,1997,Contact 
+Paul Verhoeven,Greg Grunberg,2000,Hollow Man 
+Sydney Pollack,Curtiss Cook,2005,The Interpreter 
+Thor Freudenthal,Logan Lerman,2013,Percy Jackson: Sea of Monsters 
+Jan de Bont,Gerard Butler,2003,Lara Croft Tomb Raider: The Cradle of Life 
+Jon M. Chu,Daniel Radcliffe,2016,Now You See Me 2 
+Phillip Noyce,Alun Armstrong,1997,The Saint 
+Tony Scott,Brad Pitt,2001,Spy Game 
+Brian De Palma,Don Cheadle,2000,Mission to Mars 
+Carlos Saldanha,Anne Hathaway,2011,Rio 
+Chris Columbus,Robin Williams,1999,Bicentennial Man 
+Mick Jackson,Don Cheadle,1997,Volcano 
+Alan J. Pakula,Harrison Ford,1997,The Devil's Own 
+Kathryn Bigelow,Liam Neeson,2002,K-19: The Widowmaker 
+Josh Trank,Tim Blake Nelson,2015,Fantastic Four 
+John Milius,William Smith,1982,Conan the Barbarian 
+Ron Howard,Paddy Considine,2005,Cinderella Man 
+Andrey Konchalovskiy,Shirley Henderson,2010,The Nutcracker in 3D 
+Gary Ross,Jeff Bridges,2003,Seabiscuit 
+Jan de Bont,Philip Seymour Hoffman,1996,Twister 
+Rob Cohen,Paul Walker,2001,The Fast and the Furious 
+Robert Zemeckis,Tom Hanks,2000,Cast Away 
+George Miller,Robin Williams,2006,Happy Feet 
+Paul Greengrass,Matt Damon,2004,The Bourne Supremacy 
+Wolfgang Petersen,Harrison Ford,1997,Air Force One 
+Steven Soderbergh,Brad Pitt,2001,Ocean's Eleven 
+Paul W.S. Anderson,Milla Jovovich,2011,The Three Musketeers 
+Genndy Tartakovsky,Steve Buscemi,2012,Hotel Transylvania 
+Kevin Lima,Jeff Bennett,2007,Enchanted 
+N/A,Caroline Dhavernas,N/A,Hannibal             
+Daniel Espinosa,Denzel Washington,2012,Safe House 
+Kevin Lima,Ioan Gruffudd,2000,102 Dalmatians 
+Brett Ratner,Matthew Broderick,2011,Tower Heist 
+Nancy Meyers,Kate Winslet,2006,The Holiday 
+Tony Scott,Will Smith,1998,Enemy of the State 
+Nancy Meyers,Meryl Streep,2009,It's Complicated 
+Steven Soderbergh,Al Pacino,2007,Ocean's Thirteen 
+Roger Allers,Jon Favreau,2006,Open Season 
+Neil Burger,Kate Winslet,2014,Divergent 
+Jean-Jacques Annaud,Bob Hoskins,2001,Enemy at the Gates 
+Peter Berg,Dwayne Johnson,2003,The Rundown 
+John McTiernan,F. Murray Abraham,1993,Last Action Hero 
+Rob Marshall,Li Gong,2005,Memoirs of a Geisha 
+Justin Lin,Amber Stevens West,2006,The Fast and the Furious: Tokyo Drift 
+Sarah Smith,Jim Broadbent,2011,Arthur Christmas 
+Martin Brest,Anthony Hopkins,1998,Meet Joe Black 
+Andrew Davis,Raymond Cruz,2002,Collateral Damage 
+Bob Fosse,Roy Scheider,1979,All That Jazz 
+Tarsem Singh,Julia Roberts,2012,Mirror Mirror 
+Edgar Wright,Anna Kendrick,2010,Scott Pilgrim vs. the World 
+Jon Amiel,Glenn Morshower,2003,The Core 
+Peter Segal,Larry Miller,2000,Nutty Professor II: The Klumps 
+Raja Gosnell,Sarah Michelle Gellar,2002,Scooby-Doo 
+Pete Travis,Wood Harris,2012,Dredd 
+Frank Coraci,Adam Sandler,2006,Click 
+George A. Romero,Ted Danson,1982,Creepshow 
+Brad Peyton,Jack McBrayer,2010,Cats & Dogs: The Revenge of Kitty Galore 
+Doug Liman,Kristen Stewart,2008,Jumper 
+Guillermo del Toro,Seth MacFarlane,2008,Hellboy II: The Golden Army 
+David Fincher,Robert Downey Jr.,2007,Zodiac 
+Roger Spottiswoode,Robert Duvall,2000,The 6th Day 
+Tom Shadyac,Morgan Freeman,2003,Bruce Almighty 
+Sylvester Stallone,Jason Statham,2010,The Expendables 
+Brian De Palma,Tom Cruise,1996,Mission: Impossible 
+Gary Ross,Jennifer Lawrence,2012,The Hunger Games 
+Todd Phillips,Bradley Cooper,2011,The Hangover Part II 
+Tim Burton,Michael Gough,1992,Batman Returns 
+Tim Johnson,Bruce Willis,2006,Over the Hedge 
+Dean DeBlois,Tia Carrere,2002,Lilo & Stitch 
+Gary Winick,Steve Buscemi,2006,Charlotte's Web 
+Mimi Leder,Morgan Freeman,1998,Deep Impact 
+Dean Parisot,Bruce Willis,2013,RED 2 
+Peter Segal,Adam Sandler,2005,The Longest Yard 
+Mike Mitchell,Amy Poehler,2011,Alvin and the Chipmunks: Chipwrecked 
+Dennis Dugan,Steve Buscemi,2013,Grown Ups 2 
+Peter Segal,Bill Murray,2008,Get Smart 
+Nancy Meyers,Keanu Reeves,2003,Something's Gotta Give 
+Martin Scorsese,Leonardo DiCaprio,2010,Shutter Island 
+Seth Gordon,Jon Favreau,2008,Four Christmases 
+Chris Wedge,Jim Broadbent,2005,Robots 
+John Woo,Nicolas Cage,1997,Face/Off 
+Adam Shankman,Adam Sandler,2008,Bedtime Stories 
+Sam Mendes,Tom Hanks,2002,Road to Perdition 
+Dennis Dugan,Adam Sandler,2011,Just Go with It 
+N/A,Elden Henson,N/A,Daredevil             
+Simon West,Steve Buscemi,1997,Con Air 
+D.J. Caruso,Rosario Dawson,2008,Eagle Eye 
+Anthony Minghella,Philip Seymour Hoffman,2003,Cold Mountain 
+Albert Hughes,Denzel Washington,2010,The Book of Eli 
+Les Mayfield,Robin Williams,1997,Flubber 
+Jan de Bont,Liam Neeson,1999,The Haunting 
+Joe Pytka,Bill Murray,1996,Space Jam 
+Shawn Levy,Roger Rees,2006,The Pink Panther 
+Scott Derrickson,Keanu Reeves,2008,The Day the Earth Stood Still 
+Richard Donner,Julia Roberts,1997,Conspiracy Theory 
+David Ayer,Brad Pitt,2014,Fury 
+Ivan Reitman,Harrison Ford,1998,Six Days Seven Nights 
+Eric Brevig,Justin Timberlake,2010,Yogi Bear 
+Kelly Asbury,Matt Damon,2002,Spirit: Stallion of the Cimarron 
+Frank Coraci,Rosario Dawson,2011,Zookeeper 
+Stephen Hopkins,Gary Oldman,1998,Lost in Space 
+Jonathan Demme,Denzel Washington,2004,The Manchurian Candidate 
+Henry Jaglom,Vanessa Redgrave,1997,Déjà Vu 
+Genndy Tartakovsky,Steve Buscemi,2015,Hotel Transylvania 2 
+N/A,Elizabeth Montgomery,N/A,Bewitched             
+James Algar,Quincy Jones,1999,Fantasia 2000 
+Simon Wells,Mark Addy,2002,The Time Machine 
+Ron Underwood,Charlize Theron,1998,Mighty Joe Young 
+Dominic Sena,Hugh Jackman,2001,Swordfish 
+Martin Campbell,Michael Emerson,2005,The Legend of Zorro 
+Vincent Ward,Robin Williams,1998,What Dreams May Come 
+Steven Brill,Adam Sandler,2000,Little Nicky 
+Terry Gilliam,Matt Damon,2005,The Brothers Grimm 
+Tim Burton,Natalie Portman,1996,Mars Attacks! 
+Lucile Hadzihalilovic,Nissim Renard,2015,Evolution 
+Lee Tamahori,Anthony Hopkins,1997,The Edge 
+Jonathan Mostow,Bruce Willis,2009,Surrogates 
+Roger Donaldson,Bruce Greenwood,2000,Thirteen Days 
+Rob Cohen,Sylvester Stallone,1996,Daylight 
+Barry Cook,Charlie Rowe,2013,Walking with Dinosaurs 3D 
+Roger Christian,Richard Tyson,2000,Battlefield Earth 
+Joe Dante,Brendan Fraser,2003,Looney Tunes: Back in Action 
+Rob Marshall,Fergie,2009,Nine 
+Richard Donner,Paul Walker,2003,Timeline 
